@@ -11,6 +11,7 @@ import UIKit
 let GridRows = 8
 let GridColumns = 10
 
+
 class Grid: CCSprite {
     var totalAlive = 0
     var generation = 0
